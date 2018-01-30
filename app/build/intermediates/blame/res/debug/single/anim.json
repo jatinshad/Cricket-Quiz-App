@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/anim/abc_slide_out_top.xml"
+    }
+]

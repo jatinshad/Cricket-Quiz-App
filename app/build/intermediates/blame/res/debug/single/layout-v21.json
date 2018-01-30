@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/73612c51cd8ae7962db2a696d12ce8ad3918c205/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/56a42be41a45f1fdffd419ca606df7bf2a0e91b8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/a95b3fd22ff20c3e138a95a132a8c64567cfc2c9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/23dcfddf81b4f502308d2efebc301d5d8352c4a7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/f379f21b8d3f98ec6219dd1c1fb71bd8b0977c65/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/15ac8bb8473b11cd99450476fc4b24af614de0ba/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/dcf06065a8d0ed61b0059a2ef59085db6eee1dff/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/1307b709f035a90329384b55aa99251bf68d6155/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/parulchugh/.android/build-cache/94b70324d6719159bcc3d62c9c81567da868910e/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.jatinshad.cricquiz.MainActivity
+ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.jatinshad.cricquiz.game
+ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:19:9-42
+	android:name
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:19:19-39
+activity#com.example.jatinshad.cricquiz.GameFinish
+ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:20:9-57
+	android:name
+		ADDED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml:20:19-45
+uses-sdk
+INJECTED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/73612c51cd8ae7962db2a696d12ce8ad3918c205/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/56a42be41a45f1fdffd419ca606df7bf2a0e91b8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/a95b3fd22ff20c3e138a95a132a8c64567cfc2c9/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/23dcfddf81b4f502308d2efebc301d5d8352c4a7/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/f379f21b8d3f98ec6219dd1c1fb71bd8b0977c65/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/15ac8bb8473b11cd99450476fc4b24af614de0ba/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/dcf06065a8d0ed61b0059a2ef59085db6eee1dff/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/1307b709f035a90329384b55aa99251bf68d6155/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/parulchugh/.android/build-cache/94b70324d6719159bcc3d62c9c81567da868910e/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/parulchugh/AndroidStudioProjects/CricQuiz/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/73612c51cd8ae7962db2a696d12ce8ad3918c205/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/56a42be41a45f1fdffd419ca606df7bf2a0e91b8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/a95b3fd22ff20c3e138a95a132a8c64567cfc2c9/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/23dcfddf81b4f502308d2efebc301d5d8352c4a7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/f379f21b8d3f98ec6219dd1c1fb71bd8b0977c65/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/15ac8bb8473b11cd99450476fc4b24af614de0ba/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/dcf06065a8d0ed61b0059a2ef59085db6eee1dff/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/1307b709f035a90329384b55aa99251bf68d6155/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/AndroidManifest.xml:26:9-47

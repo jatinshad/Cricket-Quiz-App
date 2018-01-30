@@ -1,0 +1,4 @@
+#Fri Jan 26 01:27:48 IST 2018
+base.0=/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

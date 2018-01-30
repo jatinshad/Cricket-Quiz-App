@@ -1,0 +1,7 @@
+#Tue Jan 30 14:29:58 IST 2018
+base.0=/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3053076c6e1b0e5acc812f127f48caba0b0e4b67
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_43148687349750aa11bd6e259a112b8198ebcbcf/classes.dex
+base.1=/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_43148687349750aa11bd6e259a112b8198ebcbcf
+file.0=/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3053076c6e1b0e5acc812f127f48caba0b0e4b67/classes.dex

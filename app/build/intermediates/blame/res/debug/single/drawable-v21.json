@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/parulchugh/AndroidStudioProjects/CricQuiz/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/parulchugh/.android/build-cache/1bd9ca3c0626bbefa3e9aadd9d27548dfe87c8aa/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
